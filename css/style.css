@@ -1,0 +1,24 @@
+.my-nav {
+  background: #black
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {
+    padding-top: 90px;
+}
+
+#about,
+#my-work,
+#contact-me,
+#teapot-slide {
+padding-top: 92px;
+padding-bottom: 92px;
+}
+
+#teapot-slide{
+  background-color: lightgray;
+  border-radius: 50px;
+}
